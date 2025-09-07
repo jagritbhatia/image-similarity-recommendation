@@ -3,6 +3,7 @@
 This project implements an image similarity search engine for fashion products using a pretrained ResNet18 model. Given a reference image (either from the dataset or uploaded by a user), the system recommends visually similar fashion items based on image embeddings and cosine similarity.
 
 ---
+📘 [View Notebook on Google Colab](https://colab.research.google.com/drive/1XhY0YyIBAmzg64qK1mzhKt9WurS1hj15?usp=sharing)
 
 ## 📌 Problem Statement
 
